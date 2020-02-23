@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+	.logo-area{
+		float: none;
+		display: block;
+		margin: auto;
+		text-align: center;
+	}
+	.search-area{
+		float: none;
+		display: block;
+		margin: auto;
+	}	
+}
